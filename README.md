@@ -8,10 +8,17 @@ Guardar y cargar datos en formato CSV y JSON
 La interfaz grafica fue desarrollada con JavaFX y permite realizar todas las operaciones desde botones y campos de texto.
 
 
+
+
 Sobre mi:
 Soy Sebastián, curso el segundo cuatrimestre de la tecnicatura en programacion, y este es el final de programacion II.
 
+
+
+
 a continuacion adjunto imagenes con todas las funcionalidades que se ven en la interfaz:
+
+
 1- tabla vacia
 
 ![image alt](https://github.com/cebaz/Ferraro.Palmieri.Sebastian.Final.Java.2025.-/blob/3a73dfe27c4bb9531f40cb2dd2547f28b4556625/1%20tabla%20vacia.png)
